@@ -1,3 +1,7 @@
 console.log("main version");
 console.log("feature version");
 main work
+base
+feature1 change
+feature2 work
+feature2 work
